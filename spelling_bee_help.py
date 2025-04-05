@@ -1,5 +1,3 @@
-import nltk
-from nltk.corpus import words
 import random
 from wordfreq import top_n_list
 
